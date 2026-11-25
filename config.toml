@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#235B96"
+backgroundColor = "#F8FAFD"
+secondaryBackgroundColor = "#ECF1F7"
+textColor = "#162943"
+font = "Inter, system-ui, sans-serif"
+
+[client]
+toolbarMode = "viewer"
+
+[runner]
+fastReruns = false
